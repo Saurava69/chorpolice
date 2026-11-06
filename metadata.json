@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chor Sipahi - Raja Mantri Sipahi Chor",
+  "description": "Digitized classic four-player Raja Mantri Chor Sipahi mobile game with offline pass-and-play, online private rooms, in-app chat, and Google Meet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
